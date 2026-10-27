@@ -1,0 +1,6 @@
+{
+  "name": "Misinformation Verification and News Credibility Analysis Platform",
+  "description": "A production-grade MERN platform for analyzing news content, detecting linguistic indicators, clickbait, and emotional phrasing, and providing automated credibility scoring and verification guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
